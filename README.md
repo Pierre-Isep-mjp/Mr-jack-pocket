@@ -1,6 +1,6 @@
 # MrJackPocket
 
-Notre projet Java pour le Semestre 1 (année A1 ISEP.
+Notre projet Java pour le Semestre 1 (année A1 ISEP).
 
 L'objectif est de reproduire le jeu de société "Mr Jack Pocket" dans un projet java comprenant une interface utilisateur graphique.
 
