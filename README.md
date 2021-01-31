@@ -1,9 +1,11 @@
 # MrJackPocket
 
-Java project for semester S1 at Isep (year A1)
+Notre projet Java pour le Semestre 1 (année A1 ISEP.
 
-The goal is to reproduce the "Mr Jack Pocket" board game in a java project including a Graphic User Interface
+L'objectif est de reproduire le jeu de société "Mr Jack Pocket" dans un projet java comprenant une interface utilisateur graphique.
 
-The full instructions are available in the doc/ directory
+Les instructions complètes sont disponibles dans le dossier doc du répertoire.
 
-Make sure the MrJackPocket.iml file is not badly updated by your ide, the src/main/resources needs to stay identified as a source folder.
+Il faut que le dossier src soit reconnu comme le dossier source et que le package src/main/resources soit reconnu comme dossier ressource.
+
+Si vous êtes sur IntelliJ assurez-vous seulement que le Mr-jack-pocket.iml ne soit pas écrasé par IntelliJ à l'import du projet. 
